@@ -1,0 +1,11 @@
+hot to use git version controll
+1.create new repository as www.github.io
+2.save link HTTPS:https://github.com/wachirapong1993/thejaygtlog.git
+3.cd to folder we create
+4.git init
+5.ls ( for check list file )
+6.ls -a check folder git
+7.git remote -v
+8.git remote add origin ....( insert HTTPS:)
+9.git remote -v
+
